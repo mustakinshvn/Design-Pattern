@@ -1,0 +1,3 @@
+Imagine you are developing an online shopping system. A customer can customize and build a product before purchasing it, like creating a custom computer. The product has different attributes such as processor, RAM, storage, and graphics card. Depending on the customer's selections, the final configuration can vary significantly.
+
+You need a way to build this product step by step, allowing flexibility in what components are chosen, while keeping the creation process simple and organized.
